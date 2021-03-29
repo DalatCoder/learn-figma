@@ -39,28 +39,28 @@
   
   - Add title for your sketches
     
-    ![Add title to your sketches](C:\Dev\learn-figma\images\addtitletoyoursketch.png)
+    ![Add title to your sketches](images\addtitletoyoursketch.png)
   
   - Add annotations
     
-    ![Add annotations](C:\Dev\learn-figma\images\addannotaiontoyoursketches.png)
+    ![Add annotations](images\addannotaiontoyoursketches.png)
   
   - Use numbers
     
-    ![Add numbers](C:\Dev\learn-figma\images\addnumberstoyoursketches.png)
+    ![Add numbers](images\addnumberstoyoursketches.png)
   
   - Add arrow (transition)
     
-    ![Add arrow](C:\Dev\learn-figma\images\addarrowtoyoursketches.png)
+    ![Add arrow](images\addarrowtoyoursketches.png)
   
   - Add gestsures if you want
     
-    ![Add gestsure](C:\Dev\learn-figma\images\addgestsureifyouwant.png)
+    ![Add gestsure](images\addgestsureifyouwant.png)
 4. Sketching user flows
    
    Phác thảo workflow của người dùng, từ khi vào app cho đến khi mua hàng thành công, suy nghĩ về những trường hợp tìm kiếm thành công và tìm kiếm không thành công. Suy nghĩ về đối tượng người dùng là ai, họ có vui khi thực hiện flow này không?
    
-   ![Sketching user flows](C:\Dev\learn-figma\images\sketchuserworkflow.png)
+   ![Sketching user flows](images\sketchuserworkflow.png)
    
    Screen flow, khi bấm vào 1 nút thì sẽ làm gì, suy nghĩ về các ngữ cảnh sử dụng, sử dụng như nào thì tối ưu hóa thao tác của người dùng. Phác thảo cấu trúc giao diện đã hợp lý chưa.
    
