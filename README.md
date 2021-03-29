@@ -73,3 +73,24 @@
    Phác thảo sitemap, theo các thành phần bên trong 1 màn hình theo dang cấu trúc cây
    
    ![Sketch sitemap](images/sketchsitemap.png)
+   
+   Phác thảo trạng thái giao diện (sketching screen state). Phác thảo trạng thái khi người dùng bấm vào khung tìm kiếm, 1 overlay hiện ra. Bố cục chi tiết của từng sản phẩm, rồi khung filter,...
+   
+   ![Sketching Screen State](images/sketchscreenstate.png)
+
+5. Inspiration
+- How do I stay inspired?
+  
+  You need to constantly simulate your creativity
+  
+  - Talk to your peers
+  
+  - Study others
+  
+  - Surround yourself with great design
+  
+  - Stay educated on a variety of topics
+  
+  - Design for yourself
+  
+  - Just take a walk
