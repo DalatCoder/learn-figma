@@ -6,4 +6,4 @@ Là một quá trình gồm 2 bước:
 - Thêm các chi tiết vào ý tưởng: thêm các chi tiết rõ hơn vào từng ý tưởng, có thể bỏ các ý tưởng không phù hợp
 
 2. From idea generation to refinement
-[!From idea generation to components](images/fromideatocomponent.png)
+![From idea generation to components](images/fromideatocomponent.png)
