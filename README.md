@@ -1,61 +1,70 @@
 # Figma go br br
 
+## Skills to be a top designer
+1. Graphic Design
+- Color
+- Color theory
+- Layout
+- Typography
+- Sketching
+- Font
+- Image
+- **=> All about visual things 😆**
+
+2. User Experience
+- Provide user with the best posible experience
+- Understanding customer
+
+3. Goal Conversion
+
+4. Platform Development
+
+## Resource online
+- [Zero to mastery](https://zerotomastery.io/resources/)
+- [GoodUI.org](https://goodui.org/): Greate for goal conversion
+- [Awwwards](https://www.awwwards.com/): Inspiration
+- [Behance](https://www.behance.net/): Inspiration
+- [Flat icon](http://flaticon.com/)
+- [Image](https://unsplash.com/)
+
+
 ## Sketching
 
 1. **An intro to sketching**
-   
-   Là một quá trình gồm 2 bước:
+Là một quá trình gồm 2 bước:
 - Khởi tạo ý tưởng: phác họa ra nhiều ý tưởng về sản phẩm nhất có thể
 - Thêm các chi tiết vào ý tưởng: thêm các chi tiết rõ hơn vào từng ý tưởng, có thể bỏ các ý tưởng không phù hợp
+
 2. **From idea generation to refinement**
-   ![From idea generation to components](images/fromideatocomponent.png)
+![From idea generation to components](images/fromideatocomponent.png)
 
 3. The sketching process
 - Step 1: Be prepared!
-  
   - Chuẩn bị sẵn công cụ 
-  
   - Lên mục tiêu cần đạt được
-  
   - Ai là người dùng
-  
   - Lên kế hoạch về thời gian
 
 - Step 2: Ready, Set,... Go!
-  
   - Draw a frame for your device
-  
   - Start with more simple and redundant elements...
-  
   - And then move onto some more detailed interactions
-  
   - Annotate your sketches and keep them safe
-  
   - Keep going
-  
   - Share your sketches
 
 - Step 3: Refinement
-  
   - Add title for your sketches
-    
     ![Add title to your sketches](images/addtitletoyoursketch.png)
-  
   - Add annotations
-    
     ![Add annotations](images/addannotaiontoyoursketches.png)
-  
   - Use numbers
-    
     ![Add numbers](images/addnumberstoyoursketches.png)
-  
   - Add arrow (transition)
-    
     ![Add arrow](images/addarrowtoyoursketches.png)
-  
   - Add gestsures if you want
-    
     ![Add gestsure](images/addgestsureifyouwant.png)
+    
 4. Sketching user flows
    
    Phác thảo workflow của người dùng, từ khi vào app cho đến khi mua hàng thành công, suy nghĩ về những trường hợp tìm kiếm thành công và tìm kiếm không thành công. Suy nghĩ về đối tượng người dùng là ai, họ có vui khi thực hiện flow này không?
