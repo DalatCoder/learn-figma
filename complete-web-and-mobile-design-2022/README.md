@@ -41,3 +41,9 @@ Flow
 - Web Portfolio
 
 ![Image](./assets/intro.png)
+
+## 1. Meeting the client
+
+- We are creating a new product
+- Product designer: can design on any platform: web, mobile, ...
+- Client wants to build a massive shop online that can takes on Amazon
