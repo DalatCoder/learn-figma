@@ -184,3 +184,12 @@ Draw an entire screen on different interactions & micro interactions
 ![Image](assets/screenstate.png)
 
 ![Image](assets/screenstate1.png)
+
+### 2.7. Sketching tips
+
+- Don't worry about messy, thinking and sketching and then refines them
+- Sketch quickly, don't worry about the details
+- Use basic block: square, rectangle, circle
+- Keep your sketch safe
+- Always be prepared
+- Communicate
