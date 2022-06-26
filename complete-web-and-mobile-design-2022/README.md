@@ -83,3 +83,23 @@ Some resources:
 - We are creating a new product
 - Product designer: can design on any platform: web, mobile, ...
 - Client wants to build a massive shop online that can takes on Amazon
+
+## 2. Sketching
+
+Used for:
+
+- Idea generation
+- Flow
+
+### 2.1. An intro to sketching
+
+Sketching is a two step process:
+
+- Idea generation: generate as many ideas as we can > Sketch
+- Add detail: it's ok to kill some ideas in here > Refine
+
+![Image](assets/sketching.png)
+
+From idea generation to refinement
+
+![Image](assets/fromideatorefinement.png)
