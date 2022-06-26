@@ -243,3 +243,17 @@ The proces of creating a user flow
 ![Image](assets/userflow4.png)
 
 ![Image](assets/userflow5.png)
+
+### 4.2. The `do` and `don't`
+
+![Image](assets/dont.png)
+
+![Image](assets/do.png)
+
+![Image](assets/dont1.png)
+
+![Image](assets/do1.png)
+
+![Image](assets/dont2.png)
+
+![Image](assets/do2.png)
