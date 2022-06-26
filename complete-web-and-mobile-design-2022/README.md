@@ -144,7 +144,7 @@ Step 3: Refinement
 
 ![Image](assets/addgesture.png)
 
-### 2.3. Sketching user flows
+### 2.3. Sketching user flows #1 (Overrall flow)
 
 - Think about what your want to sketch
 - Define some sort of starting point: the most difficult or the quicky part first, some designers
@@ -162,3 +162,9 @@ Step 3: Refinement
 ![Image](assets/simpleflow.png)
 
 ![Image](assets/flow1.png)
+
+### 2.4. Sketching user flows #2 (Screen flow)
+
+Focus on user actions through a specific flow, thinking about all the scenarios
+
+![Image](assets/screenflow.png)
