@@ -193,3 +193,25 @@ Draw an entire screen on different interactions & micro interactions
 - Keep your sketch safe
 - Always be prepared
 - Communicate
+
+## 3. Inspiration
+
+### 3.1. How to stay inspired?
+
+You need to constantly stimulate your creativity
+
+- Talk to your peers
+- Study others
+- Surround yourself with greate design
+- Stay educated on a variety of topics
+- Design for yourself
+- Travel and explore the world
+- Just take a walk
+
+### 3.2. How to find inspiration?
+
+- [https://dribbble.com/](https://dribbble.com/): collections
+- [https://www.pinterest.com/](https://www.pinterest.com/)
+- [https://www.behance.net/](https://www.behance.net/)
+- [https://www.pttrns.com/](https://www.pttrns.com/)
+- [https://www.awwwards.com/](https://www.awwwards.com/)
