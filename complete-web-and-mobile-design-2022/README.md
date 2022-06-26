@@ -216,9 +216,19 @@ You need to constantly stimulate your creativity
 - [https://www.pttrns.com/](https://www.pttrns.com/)
 - [https://www.awwwards.com/](https://www.awwwards.com/)
 
-## 4. User flows
+## 4. Intro to Figma
 
-### 4.1. What are user flows?
+Advantages:
+
+- It's free for individuals
+- Collaborative
+- Fast
+- Works on any computer
+- Mobile companion app
+
+## 5. User flows
+
+### 5.1. What are user flows?
 
 A user flow is a seri of steps that user takes to achieve a meaningful goal
 
@@ -244,7 +254,7 @@ The proces of creating a user flow
 
 ![Image](assets/userflow5.png)
 
-### 4.2. The `do` and `don't`
+### 5.2. The `do` and `don't`
 
 ![Image](assets/dont.png)
 
