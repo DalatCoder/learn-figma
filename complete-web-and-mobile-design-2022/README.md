@@ -143,3 +143,22 @@ Step 3: Refinement
 - Add gestures if you want
 
 ![Image](assets/addgesture.png)
+
+### 2.3. Sketching user flows
+
+- Think about what your want to sketch
+- Define some sort of starting point: the most difficult or the quicky part first, some designers
+  start at the end and then figure out the way to achieve it
+- Design your next step, ask yourself some important questions
+
+  - which ways this step lead our users?
+  - where do you want them to go?
+  - what are the users need to do to get there?
+
+![Image](assets/atob.png)
+
+- Happy flow: user enter the app and make purcharge
+
+![Image](assets/simpleflow.png)
+
+![Image](assets/flow1.png)
