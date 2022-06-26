@@ -168,3 +168,11 @@ Step 3: Refinement
 Focus on user actions through a specific flow, thinking about all the scenarios
 
 ![Image](assets/screenflow.png)
+
+### 2.5. Sketching user flows #2 (Navigation screen)
+
+What options users can choose?
+
+![Image](assets/navigation.png)
+
+![Image](assets/navigation1.png)
