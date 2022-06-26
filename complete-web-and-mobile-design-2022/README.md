@@ -60,6 +60,24 @@ The phases of building any products
 
 ![FLow](assets/flow.png)
 
+Skill to be a top designer, 4 key elements:
+
+- Graphic design: using colors, colors theory, layout, typography, sketching, using fonts, images: **all about the visual**
+- User experience (UX): study user experience & user interface design, how can you makes a user moves to your products in an ejoyable way, an easy flow? It's **all about understanding the customer**
+- Goal conversion: design a product that the client wants
+- Platform development: mobile or web
+
+Some resources:
+
+- [https://zerotomastery.io/resources/](https://zerotomastery.io/resources/)
+- [https://goodui.org/](https://goodui.org/) for goal conversion
+- [https://www.awwwards.com/](https://www.awwwards.com/) for inspiration
+- [https://www.behance.net/](https://www.behance.net/) for inspiration, portfolio
+- [https://www.flaticon.com/](https://www.flaticon.com/) for icons
+- [https://unsplash.com/](https://unsplash.com/) for images
+
+![Image](assets/topdesigner.png)
+
 ## 1. Meeting the client
 
 - We are creating a new product
