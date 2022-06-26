@@ -169,10 +169,18 @@ Focus on user actions through a specific flow, thinking about all the scenarios
 
 ![Image](assets/screenflow.png)
 
-### 2.5. Sketching user flows #2 (Navigation screen)
+### 2.5. Sketching user flows #3 (Navigation scheme)
 
 What options users can choose?
 
 ![Image](assets/navigation.png)
 
 ![Image](assets/navigation1.png)
+
+### 2.6. Sketching user flows #4 (Screen state)
+
+Draw an entire screen on different interactions & micro interactions
+
+![Image](assets/screenstate.png)
+
+![Image](assets/screenstate1.png)
