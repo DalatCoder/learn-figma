@@ -103,3 +103,43 @@ Sketching is a two step process:
 From idea generation to refinement
 
 ![Image](assets/fromideatorefinement.png)
+
+### 2.2. The sketching process
+
+Step 1: Be prepared!
+
+- Prepare your tools beforehand
+- What are your goals?
+- Who is your audience?
+- Time-box yourself
+
+Step 2: Ready, Set ... Go!
+
+- Draw a frame for your device
+- Start with more simple and redundant elements: footer, header, elements that you have seen alot
+- Move onto some more detailed interactions: square, rectangle, circle, line, ...
+- Annotate your sketches and keep them safe
+- Keep going
+- Share your sketches
+
+Step 3: Refinement
+
+- Add titles to your sketches
+
+![Image](assets/addtitletosketches.png)
+
+- Add annotations... again
+
+![Image](assets/addannotation.png)
+
+- Use numbers
+
+![Image](assets/usenumbers.png)
+
+- Use arrows
+
+![Image](assets/addarrows.png)
+
+- Add gestures if you want
+
+![Image](assets/addgesture.png)
