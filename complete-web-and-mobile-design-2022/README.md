@@ -215,3 +215,31 @@ You need to constantly stimulate your creativity
 - [https://www.behance.net/](https://www.behance.net/)
 - [https://www.pttrns.com/](https://www.pttrns.com/)
 - [https://www.awwwards.com/](https://www.awwwards.com/)
+
+## 4. User flows
+
+### 4.1. What are user flows?
+
+A user flow is a seri of steps that user takes to achieve a meaningful goal
+
+![Image](assets/userflow.png)
+
+![Image](assets/userflow1.png)
+
+An example
+
+![Image](assets/userflow2.png)
+
+Some questions
+
+- What is the goal of this thing
+- Who is doing it
+- How do they do it
+
+The proces of creating a user flow
+
+![Image](assets/userflow3.png)
+
+![Image](assets/userflow4.png)
+
+![Image](assets/userflow5.png)
