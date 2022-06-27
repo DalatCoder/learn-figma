@@ -378,3 +378,38 @@ Using `plugin autoflow` to create line between `frames`
 - Using tools: figma,... sketching first and then move to some online tools to refine
 - Using colors
 - Spent less time on the sitemaps
+
+## 7. Wireframes
+
+### 7.1. What is a wireframe
+
+> Wireframes are a blueprint of your product
+
+- Middle-ground between your sketching and high-quality design in prototype
+
+Past artifcats should influence the way you create your wireframes
+
+![Image](assets/wireframe.png)
+
+Why do we use them?
+
+- Wireframes help you understand how users will navigate your product
+- Use them to learn: build > measure > learn
+- Clarity and common understanding amongst the team
+- Testing with users uncovers pain points and opportunities
+- Present to clients and stakeholders to get feedback
+
+### 7.2. How to create a wireframe?
+
+- Keep it simple
+- Pencil and paper is a good way to start (quick)
+- You can polish them up if you have a client that you want to review with
+- Ask yourself the important questions
+
+  - The goals?
+  - How content is organized to support those content?
+  - What is the user expect to see on the page
+
+- Consult your user flows and sitemap
+- Tackle risky features first
+- Bring your team into the process
