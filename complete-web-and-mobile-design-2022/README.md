@@ -361,3 +361,20 @@ So why they are valualbe?
 - Review all user flows
 
 ![Image](assets/sitemap8.png)
+
+### 6.4. Building sitemaps
+
+Using `plugin autoflow` to create line between `frames`
+
+![Image](assets/sitemap9.png)
+
+![Image](assets/sitemap10.png)
+
+![Image](assets/sitemap11.png)
+
+### 6.7. Tips on creating sitemaps
+
+- Thinking out of the box, don't go to detail such as user flow
+- Using tools: figma,... sketching first and then move to some online tools to refine
+- Using colors
+- Spent less time on the sitemaps
