@@ -267,3 +267,22 @@ The proces of creating a user flow
 ![Image](assets/dont2.png)
 
 ![Image](assets/do2.png)
+
+### 5.3. Speedup workflow with component
+
+Create some simple shapes
+
+![Image](assets/component1.png)
+
+Create reusable components
+
+- Choose a shape
+- Right click > Create component
+
+For some `text shape` on the screen, we can group them into one `frame` and
+create component from this `frame`
+
+When edit size of the shape inside a `frame` (`component`), we can edit the constraint
+to automatically resize the shape base on the size of the `frame`
+
+![Image](assets/component2.png)
