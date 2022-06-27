@@ -315,3 +315,49 @@ Steps to create user flows
 ### 5.6. Creating our own user flows (Making a purchase)
 
 ![Image](assets/makingapurchase.png)
+
+## 6. Sitemaps
+
+### 6.1. Introduction to sitemaps
+
+People still use sitemap?
+
+![Image](assets/sitemap1.png)
+
+![Image](assets/sitemap2)
+
+When do we use sitemaps?
+
+- The very beginning
+- Right after the project is kick-off
+
+### 6.2. Create a basic sitemap
+
+![Image](assets/sitemap3.png)
+
+![Image](assets/sitemap4.png)
+
+![Image](assets/sitemap5.png)
+
+There are 2 types of sitemaps:
+
+- Flat sitemap: for small products, less than 100 pages
+- Deep sitemap: for large products
+
+![Image](assets/sitemap6.png)
+
+![Image](assets/sitemap7.png)
+
+So why they are valualbe?
+
+- Provide an overview
+- Sitemaps can help strategically place content where users can find it.
+  It results in the creation of your navigation and hierarchies of your product.
+
+### 6.3. Before start
+
+- Place all of sketch images to the figma page
+- Review all the sketches
+- Review all user flows
+
+![Image](assets/sitemap8.png)
