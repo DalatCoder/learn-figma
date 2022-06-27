@@ -286,3 +286,24 @@ When edit size of the shape inside a `frame` (`component`), we can edit the cons
 to automatically resize the shape base on the size of the `frame`
 
 ![Image](assets/component2.png)
+
+### 5.4. Creating our own user flows (On boarding)
+
+The flow that user sees when they first enter the app
+
+- Press 'f' to create new frame
+- Switch to tab `assets` to uses our components from previous step
+
+![Image](assets/onboarding.png)
+
+Steps to create user flows
+
+- Create a `title`
+- Create `step` and write description
+
+  - What the user sees
+  - What they do
+  - What they see next
+  - What they do next
+
+![Image](assets/onboarding1.png)
