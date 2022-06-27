@@ -216,9 +216,19 @@ You need to constantly stimulate your creativity
 - [https://www.pttrns.com/](https://www.pttrns.com/)
 - [https://www.awwwards.com/](https://www.awwwards.com/)
 
-## 4. User flows
+## 4. Intro to Figma
 
-### 4.1. What are user flows?
+Advantages:
+
+- It's free for individuals
+- Collaborative
+- Fast
+- Works on any computer
+- Mobile companion app
+
+## 5. User flows
+
+### 5.1. What are user flows?
 
 A user flow is a seri of steps that user takes to achieve a meaningful goal
 
@@ -243,3 +253,57 @@ The proces of creating a user flow
 ![Image](assets/userflow4.png)
 
 ![Image](assets/userflow5.png)
+
+### 5.2. The `do` and `don't`
+
+![Image](assets/dont.png)
+
+![Image](assets/do.png)
+
+![Image](assets/dont1.png)
+
+![Image](assets/do1.png)
+
+![Image](assets/dont2.png)
+
+![Image](assets/do2.png)
+
+### 5.3. Speedup workflow with component
+
+Create some simple shapes
+
+![Image](assets/component1.png)
+
+Create reusable components
+
+- Choose a shape
+- Right click > Create component
+
+For some `text shape` on the screen, we can group them into one `frame` and
+create component from this `frame`
+
+When edit size of the shape inside a `frame` (`component`), we can edit the constraint
+to automatically resize the shape base on the size of the `frame`
+
+![Image](assets/component2.png)
+
+### 5.4. Creating our own user flows (On boarding)
+
+The flow that user sees when they first enter the app
+
+- Press 'f' to create new frame
+- Switch to tab `assets` to uses our components from previous step
+
+![Image](assets/onboarding.png)
+
+Steps to create user flows
+
+- Create a `title`
+- Create `step` and write description
+
+  - What the user sees
+  - What they do
+  - What they see next
+  - What they do next
+
+![Image](assets/onboarding1.png)
