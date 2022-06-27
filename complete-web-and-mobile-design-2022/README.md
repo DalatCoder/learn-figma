@@ -307,3 +307,11 @@ Steps to create user flows
   - What they do next
 
 ![Image](assets/onboarding1.png)
+
+### 5.5. Creating our own user flows (Find products)
+
+![Image](assets/searchproduct.png)
+
+### 5.6. Creating our own user flows (Making a purchase)
+
+![Image](assets/makingapurchase.png)
