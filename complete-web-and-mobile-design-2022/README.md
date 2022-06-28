@@ -429,3 +429,34 @@ For quickly:
 The generalize component for quickly starting
 
 ![Image](assets/component3.png)
+
+### 7.4. Creating our home page
+
+We have done
+
+- Sketching
+- User flows
+- Sitemaps
+
+Create new wireframe
+
+![Image](assets/homewireframe.png)
+
+The first things to do is starting with basic things like
+
+- Navigation
+- ...
+
+Insert `bar` component, swap icons and using pass through 40% for transperency
+
+![Image](assets/homewireframe1.png)
+
+Using `grid` for easily align items
+
+![Image](assets/homewireframe2.png)
+
+Complete home page wireframe
+
+![Image](assets/homewireframe3.png)
+
+![Image](assets/homewireframe4.png)
