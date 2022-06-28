@@ -399,6 +399,11 @@ Why do we use them?
 - Testing with users uncovers pain points and opportunities
 - Present to clients and stakeholders to get feedback
 
+Use them to:
+
+- Show to the client
+- Quickly prototype without worrying about styles, colors
+
 ### 7.2. How to create a wireframe?
 
 - Keep it simple
@@ -413,3 +418,14 @@ Why do we use them?
 - Consult your user flows and sitemap
 - Tackle risky features first
 - Bring your team into the process
+
+### 7.3. Wireframe in Figma
+
+For quickly:
+
+- Components library
+- Style guide
+
+The generalize component for quickly starting
+
+![Image](assets/component3.png)
