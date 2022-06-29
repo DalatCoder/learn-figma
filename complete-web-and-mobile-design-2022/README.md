@@ -463,6 +463,8 @@ Complete home page wireframe
 
 ## 8. Prototyping
 
+### 8.1. Trigger
+
 Our wireframe
 
 ![Image](assets/prototype1.png)
@@ -503,3 +505,18 @@ On Drag trigger: perform actions when you drag an element on the screen
 Recommends:
 
 - `On Tap` for everything: just want prototype to link together to test
+
+### 8.2. Action
+
+- Navigate To
+- Open Overlay
+- Swap With
+- Back
+- Close Overlay
+- Open Link
+
+Open Keyboard Overlay when user click on the search bar and close the overlay when user click outside the `Keyboard frame`
+
+Notice: the high of the `Keyboard frame`
+
+![Image](assets/prototype6.png)
