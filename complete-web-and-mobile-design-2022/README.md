@@ -460,3 +460,46 @@ Complete home page wireframe
 ![Image](assets/homewireframe3.png)
 
 ![Image](assets/homewireframe4.png)
+
+## 8. Prototyping
+
+Our wireframe
+
+![Image](assets/prototype1.png)
+
+Prototyping basics:
+
+- Select tab `prototype`
+- Select device `iphone 11 pro`
+
+Configure device
+
+![Image](assets/prototype2.png)
+
+We can now press `present` button
+
+![Image](assets/prototype3.png)
+
+Trigger:
+
+- On Tap
+- On Drag
+- While Hovering
+- While Pressing
+- Key/Gamepad
+- Mouse Enter
+- Mouse Leave
+- Touch Down
+- Touch Up
+
+On Tap trigger: user click or press on a button or anything to move to another frame
+
+![Image](assets/prototype4.png)
+
+On Drag trigger: perform actions when you drag an element on the screen
+
+![Image](assets/prototype5.png)
+
+Recommends:
+
+- `On Tap` for everything: just want prototype to link together to test
