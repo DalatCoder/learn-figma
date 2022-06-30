@@ -527,3 +527,81 @@ Control how your user interact with content that extends beyond the
 `frame` dimension
 
 ![Image](assets/prototype7.png)
+
+## 9. Spacing and The Grid
+
+### 9.1. What is a grid?
+
+Grid helps designer aligns content on the page
+
+![Image](assets/grid.png)
+
+### 9.2. Grid basics?
+
+- Base units, the author uses `8px` base units
+
+![Image](assets/baseunit.png)
+
+- All UI elements should be measured in increments of our base unit
+
+![Image](assets/baseunit1.png)
+
+- Padding: The space between all of our elements should be based off of our base unit
+
+![Image](assets/baseunit2.png)
+
+Layout, so what do all these lines and boxes mean?
+
+Grid anotomies:
+
+- Column
+- Gutter
+- Margin
+
+Columns are our vertical blocks that span from left to right
+
+- Desktop: 12
+- Tablet: 8
+- Mobile: 6
+
+![Image](assets/grid1.png)
+
+Gutters are that white space between columns
+
+- Stay fixed
+- Don't scale up or down
+- 16px
+
+![Image](assets/grid2.png)
+
+Margins are the white space between the edge of your column
+and the edge of the frame
+
+![Image](assets/grid3.png)
+
+There are different types of grid
+
+The Manuscript Grid
+
+- Define margin for a large block of text
+
+![Image](assets/grid4.png)
+
+The most popular column grid
+
+![Image](assets/grid5.png)
+
+The modular grid
+
+![Image](assets/grid6.png)
+
+The baseline grid (important, 4px base units)
+
+- Provide guide for typography and UI elements
+- Create vertical rhythms
+- Place typography on the baseline grid using `line height`
+- `Line height` is the box around the type
+
+![Image](assets/grid7.png)
+
+![Image](assets/grid8.png)
