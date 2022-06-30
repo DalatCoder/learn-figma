@@ -605,3 +605,23 @@ The baseline grid (important, 4px base units)
 ![Image](assets/grid7.png)
 
 ![Image](assets/grid8.png)
+
+### 9.3. Responsive grids and breakpoints
+
+Design for multiple screens
+
+- Fixed Grid: has fixed container
+
+![Image](assets/grid9.png)
+
+![Image](assets/grid10.png)
+
+- Fluid Grid: using percentage (%), margin & gutter stay fixed
+
+![Image](assets/grid11.png)
+
+![Image](assets/grid12.png)
+
+- Responsive Grid: breakpoints (small, medium, large, extra large)
+
+![Image](assets/grid13.png)
