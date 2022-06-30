@@ -520,3 +520,10 @@ Open Keyboard Overlay when user click on the search bar and close the overlay wh
 Notice: the high of the `Keyboard frame`
 
 ![Image](assets/prototype6.png)
+
+### 8.3. Overflow behaviour
+
+Control how your user interact with content that extends beyond the
+`frame` dimension
+
+![Image](assets/prototype7.png)
