@@ -315,3 +315,313 @@ Steps to create user flows
 ### 5.6. Creating our own user flows (Making a purchase)
 
 ![Image](assets/makingapurchase.png)
+
+## 6. Sitemaps
+
+### 6.1. Introduction to sitemaps
+
+People still use sitemap?
+
+![Image](assets/sitemap1.png)
+
+![Image](assets/sitemap2)
+
+When do we use sitemaps?
+
+- The very beginning
+- Right after the project is kick-off
+
+### 6.2. Create a basic sitemap
+
+![Image](assets/sitemap3.png)
+
+![Image](assets/sitemap4.png)
+
+![Image](assets/sitemap5.png)
+
+There are 2 types of sitemaps:
+
+- Flat sitemap: for small products, less than 100 pages
+- Deep sitemap: for large products
+
+![Image](assets/sitemap6.png)
+
+![Image](assets/sitemap7.png)
+
+So why they are valualbe?
+
+- Provide an overview
+- Sitemaps can help strategically place content where users can find it.
+  It results in the creation of your navigation and hierarchies of your product.
+
+### 6.3. Before start
+
+- Place all of sketch images to the figma page
+- Review all the sketches
+- Review all user flows
+
+![Image](assets/sitemap8.png)
+
+### 6.4. Building sitemaps
+
+Using `plugin autoflow` to create line between `frames`
+
+![Image](assets/sitemap9.png)
+
+![Image](assets/sitemap10.png)
+
+![Image](assets/sitemap11.png)
+
+### 6.7. Tips on creating sitemaps
+
+- Thinking out of the box, don't go to detail such as user flow
+- Using tools: figma,... sketching first and then move to some online tools to refine
+- Using colors
+- Spent less time on the sitemaps
+
+## 7. Wireframes
+
+### 7.1. What is a wireframe
+
+> Wireframes are a blueprint of your product
+
+- Middle-ground between your sketching and high-quality design in prototype
+
+Past artifcats should influence the way you create your wireframes
+
+![Image](assets/wireframe.png)
+
+Why do we use them?
+
+- Wireframes help you understand how users will navigate your product
+- Use them to learn: build > measure > learn
+- Clarity and common understanding amongst the team
+- Testing with users uncovers pain points and opportunities
+- Present to clients and stakeholders to get feedback
+
+Use them to:
+
+- Show to the client
+- Quickly prototype without worrying about styles, colors
+
+### 7.2. How to create a wireframe?
+
+- Keep it simple
+- Pencil and paper is a good way to start (quick)
+- You can polish them up if you have a client that you want to review with
+- Ask yourself the important questions
+
+  - The goals?
+  - How content is organized to support those content?
+  - What is the user expect to see on the page
+
+- Consult your user flows and sitemap
+- Tackle risky features first
+- Bring your team into the process
+
+### 7.3. Wireframe in Figma
+
+For quickly:
+
+- Components library
+- Style guide
+
+The generalize component for quickly starting
+
+![Image](assets/component3.png)
+
+### 7.4. Creating our home page
+
+We have done
+
+- Sketching
+- User flows
+- Sitemaps
+
+Create new wireframe
+
+![Image](assets/homewireframe.png)
+
+The first things to do is starting with basic things like
+
+- Navigation
+- ...
+
+Insert `bar` component, swap icons and using pass through 40% for transperency
+
+![Image](assets/homewireframe1.png)
+
+Using `grid` for easily align items
+
+![Image](assets/homewireframe2.png)
+
+Complete home page wireframe
+
+![Image](assets/homewireframe3.png)
+
+![Image](assets/homewireframe4.png)
+
+## 8. Prototyping
+
+### 8.1. Trigger
+
+Our wireframe
+
+![Image](assets/prototype1.png)
+
+Prototyping basics:
+
+- Select tab `prototype`
+- Select device `iphone 11 pro`
+
+Configure device
+
+![Image](assets/prototype2.png)
+
+We can now press `present` button
+
+![Image](assets/prototype3.png)
+
+Trigger:
+
+- On Tap
+- On Drag
+- While Hovering
+- While Pressing
+- Key/Gamepad
+- Mouse Enter
+- Mouse Leave
+- Touch Down
+- Touch Up
+
+On Tap trigger: user click or press on a button or anything to move to another frame
+
+![Image](assets/prototype4.png)
+
+On Drag trigger: perform actions when you drag an element on the screen
+
+![Image](assets/prototype5.png)
+
+Recommends:
+
+- `On Tap` for everything: just want prototype to link together to test
+
+### 8.2. Action
+
+- Navigate To
+- Open Overlay
+- Swap With
+- Back
+- Close Overlay
+- Open Link
+
+Open Keyboard Overlay when user click on the search bar and close the overlay when user click outside the `Keyboard frame`
+
+Notice: the high of the `Keyboard frame`
+
+![Image](assets/prototype6.png)
+
+### 8.3. Overflow behaviour
+
+Control how your user interact with content that extends beyond the
+`frame` dimension
+
+![Image](assets/prototype7.png)
+
+## 9. Spacing and The Grid
+
+### 9.1. What is a grid?
+
+Grid helps designer aligns content on the page
+
+![Image](assets/grid.png)
+
+### 9.2. Grid basics?
+
+- Base units, the author uses `8px` base units
+
+![Image](assets/baseunit.png)
+
+- All UI elements should be measured in increments of our base unit
+
+![Image](assets/baseunit1.png)
+
+- Padding: The space between all of our elements should be based off of our base unit
+
+![Image](assets/baseunit2.png)
+
+Layout, so what do all these lines and boxes mean?
+
+Grid anotomies:
+
+- Column
+- Gutter
+- Margin
+
+Columns are our vertical blocks that span from left to right
+
+- Desktop: 12
+- Tablet: 8
+- Mobile: 6
+
+![Image](assets/grid1.png)
+
+Gutters are that white space between columns
+
+- Stay fixed
+- Don't scale up or down
+- 16px
+
+![Image](assets/grid2.png)
+
+Margins are the white space between the edge of your column
+and the edge of the frame
+
+![Image](assets/grid3.png)
+
+There are different types of grid
+
+The Manuscript Grid
+
+- Define margin for a large block of text
+
+![Image](assets/grid4.png)
+
+The most popular column grid
+
+![Image](assets/grid5.png)
+
+The modular grid
+
+![Image](assets/grid6.png)
+
+The baseline grid (important, 4px base units)
+
+- Provide guide for typography and UI elements
+- Create vertical rhythms
+- Place typography on the baseline grid using `line height`
+- `Line height` is the box around the type
+
+![Image](assets/grid7.png)
+
+![Image](assets/grid8.png)
+
+### 9.3. Responsive grids and breakpoints
+
+Design for multiple screens
+
+- Fixed Grid: has fixed container
+
+![Image](assets/grid9.png)
+
+![Image](assets/grid10.png)
+
+- Fluid Grid: using percentage (%), margin & gutter stay fixed
+
+![Image](assets/grid11.png)
+
+![Image](assets/grid12.png)
+
+- Responsive Grid: breakpoints (small, medium, large, extra large)
+
+![Image](assets/grid13.png)
