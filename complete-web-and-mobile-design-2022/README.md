@@ -643,3 +643,17 @@ There are 4 categories of `serif`
 ![Image](assets/sanserif.png)
 
 ![Image](assets/sanserif1.png)
+
+### 10.3. Display
+
+![Image](assets/display.png)
+
+![Image](assets/display1.png)
+
+![Image](assets/display2.png)
+
+### 10.4. Mono
+
+![Image](assets/mono.png)
+
+![Image](assets/mono1.png)
