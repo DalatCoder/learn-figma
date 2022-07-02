@@ -625,3 +625,15 @@ Design for multiple screens
 - Responsive Grid: breakpoints (small, medium, large, extra large)
 
 ![Image](assets/grid13.png)
+
+## 10. Typography
+
+### 10.1. Serif
+
+Traditional
+
+![Image](assets/serif.png)
+
+There are 4 categories of `serif`
+
+![Image](assets/serif1.png)
