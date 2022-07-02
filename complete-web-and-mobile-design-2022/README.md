@@ -637,3 +637,9 @@ Traditional
 There are 4 categories of `serif`
 
 ![Image](assets/serif1.png)
+
+### 10.2. Sans Serif
+
+![Image](assets/sanserif.png)
+
+![Image](assets/sanserif1.png)
